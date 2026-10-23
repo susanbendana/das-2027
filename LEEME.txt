@@ -1,0 +1,70 @@
+DAS 2027 · CTP DE BUENOS AIRES
+ETAPA: PÁGINA DE DUODÉCIMO
+
+QUÉ INCLUYE ESTA VERSIÓN
+
+- Inicio con accesos a los tres niveles, certificaciones y proyectos interactivos.
+- Décimo: aprendizajes, inglés, actividad para ordenar pasos y cinco subáreas.
+- Undécimo: aprendizajes, proyecto Encuentra+, actividad de consulta de datos,
+  inglés, cuatro subáreas y certificaciones de Python.
+- Duodécimo: aprendizajes, proyecto de app móvil, prototipo interactivo,
+  inglés, tres subáreas y certificaciones de JavaScript.
+- Certificaciones de Décimo: Cisco NetAcad (Soporte de TI, Ciberseguridad y
+  CCNA 1) y ofimática por medio de la UTN (Writer, Calc, Impress y Base).
+- La UTN se identifica como universidad pública de Costa Rica.
+
+En esta etapa revisaremos Duodécimo. Después revisaremos el conjunto del
+sitio antes de trabajar la publicación en GitHub y el QR.
+
+CÓMO ABRIR LA PÁGINA EN WINDOWS
+
+1. Descarga DAS_2027_Proyecto.zip.
+2. Haz clic derecho sobre el ZIP y elige “Extraer todo”.
+3. Elige una carpeta nueva para esta revisión y pulsa “Extraer”.
+4. Abre la carpeta DAS_2027_Proyecto que aparece dentro de la carpeta extraída.
+5. Haz doble clic en index.html.
+6. Si se abre como texto, haz clic derecho en index.html, elige “Abrir con”
+   y selecciona Edge o Chrome.
+
+Mantén juntos todos los archivos y la carpeta assets.
+No necesitas instalar programas ni escribir comandos.
+
+QUÉ PROBAR EN DUODÉCIMO
+
+1. Desde Inicio, abre Duodécimo y revisa los aprendizajes principales.
+2. En la actividad, activa Texto más grande y observa la pantalla de ejemplo.
+3. Activa Mayor contraste y Botón descriptivo. El botón de la app cambiará
+   de “Continuar” a “Ver detalles del objeto”.
+4. Pulsa ese botón para abrir los detalles de la Botella azul.
+5. Pulsa “Volver a los objetos” para regresar a la pantalla inicial de la app.
+6. Prueba “Restablecer el prototipo”. Los ajustes y la navegación volverán
+   al estado inicial.
+7. Revisa JavaScript Essentials 1 y 2 y abre las tres subáreas desplegables.
+8. Revisa el bloque de inglés y los enlaces para cambiar de nivel.
+
+ARCHIVOS
+
+index.html: página de Inicio.
+decimo.html: página de Décimo.
+undecimo.html: página de Undécimo.
+duodecimo.html: página de Duodécimo.
+styles.css: estilos generales y proyectos de Inicio.
+levels.css: navegación y diseño de niveles.
+certificaciones.css: diseño de certificaciones e ilustraciones.
+undecimo.css y duodecimo.css: diseño de las actividades de esos niveles.
+script.js: proyectos interactivos de Inicio.
+decimo.js: actividad para ordenar pasos de Décimo.
+undecimo.js: filtros de la actividad de Undécimo.
+duodecimo.js: controles y navegación del prototipo de Duodécimo.
+assets/escudo-ctp-buenos-aires.jpeg: escudo original proporcionado.
+
+La tipografía Inter se carga por internet. Sin conexión se utiliza
+automáticamente una tipografía disponible en tu computadora.
+Los proyectos, registros, ejemplos e ilustraciones son explicativos.
+Los aprendizajes y subáreas se adaptaron del programa de estudio del MEP.
+Las oportunidades de certificación por nivel corresponden a la información
+facilitada por la docente. CCNA 1 es un curso de formación; la certificación
+profesional CCNA requiere aprobar un examen aparte. Cada reconocimiento
+depende de los requisitos del programa correspondiente.
+
+La publicación en GitHub y el QR se trabajarán en una etapa posterior.
